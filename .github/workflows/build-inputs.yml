@@ -55,7 +55,7 @@ on:
         type: choice
         options:
         - "default"
-        - "noreverseangle",
+        - "noreverseangle"
         - "lite"
       kmonad_os:
         description: 'Miryoku KMonad OS'
@@ -63,7 +63,7 @@ on:
         default: 'default'
         options:
         - "default"
-        - "Mac",
+        - "Mac"
         - "Win"
       rules:
         description: 'custom_rules.mk'
