@@ -12,15 +12,14 @@ jobs:
       mode: '["build"]'
       alphas: '[
         "default",
-        "azerty",
-        "beakl15",
-        "colemak",
-        "colemakdhk",
+        # "azerty",
+        # "beakl15",
+        # "colemak",
+        # "colemakdhk",
         "dvorak",
-        "halmak",
-        "workman",
+        # "halmak",
         "qwerty",
-        "qwertz",
+        # "qwertz",
         "workman"
       ]'
       nav: '[
