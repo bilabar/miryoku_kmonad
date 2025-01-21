@@ -61,6 +61,7 @@ on:
         description: 'Miryoku KMonad OS'
         required: false
         default: 'default'
+        type: choice
         options:
         - "default"
         - "Mac"
